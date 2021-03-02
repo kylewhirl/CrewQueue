@@ -1,4 +1,4 @@
-<img src="CrewQueueLogo.png" align="left">
+<img src="CrewQueueLogo.png" align="right">
 
 # CrewQueue
 
