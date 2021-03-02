@@ -1,4 +1,4 @@
-#  Eh ![Logo](CrewQueueLogo.svg) CrewQueue
+# ![Logo](CrewQueueLogo.svg) CrewQueue
 
 ## Add songs to a host's Spotify Queue easily and quickly
 
