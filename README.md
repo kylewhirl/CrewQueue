@@ -1,3 +1,5 @@
+<img src="/CrewQueueLogo.png?raw=true">
+![](./CrewQueueLogo.png =250x)
 # CrewQueue
 ## Add songs to a host's Spotify Queue easily and quickly
 
