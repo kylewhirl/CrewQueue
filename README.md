@@ -1,9 +1,6 @@
-# CrewQueue
+<img src="CrewQueueLogo.png" align="right">
 
-<img src="/CrewQueueLogo.png?raw=true">
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-# CrewQueue  |  <img src="/CrewQueueLogo.png?raw=true">
+# CrewQueue
 
 ## Add songs to a host's Spotify Queue easily and quickly
 
